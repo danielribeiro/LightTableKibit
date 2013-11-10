@@ -1,5 +1,3 @@
 # LightTableKibit
 
-Because [kibit](https://github.com/jonase/kibit) is pretty cool
-
-Still WIP
+[Kibit](https://github.com/jonase/kibit) integration with [LightTable](http://www.lighttable.com/)
