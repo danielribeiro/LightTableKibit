@@ -2,14 +2,16 @@
 
 (into [] succ)
 
-(do (into [] succ))
+(->> succ (into []))
+
+(do (->> succ (into [])))
 
 (if-let [succ (+ 1 x)]
-     (do (into [] succ))
+     (do (->> succ (into [])))
       nil)
 
 (defn singleton-succ-vec [x]
   (if-let [succ (+ 1 x)]
-     (do (into [] succ))
+     (do (->> succ (into [])))
       nil))
 
