@@ -6,6 +6,8 @@ Sample of results:
 
 ![](https://raw.github.com/danielribeiro/LightTableKibit/docs/docs/sample.gif)
 
+You can read more about this [here](http://metaphysicaldeveloper.wordpress.com/2013/11/18/idiomatic-clojure-with-lighttable/)
+
 ## Meta
 
 Created by [Daniel Ribeiro](http://metaphysicaldeveloper.wordpress.com/about-me)
