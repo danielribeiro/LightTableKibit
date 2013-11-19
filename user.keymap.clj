@@ -9,5 +9,4 @@
           :dispatch clojure.pprint/code-dispatch))
       __SELECTION*__))"
     {:result-type :replace :verbatim true})]}}
-
  }
