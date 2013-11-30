@@ -1,6 +1,6 @@
 # LightTableKibit
 
-[Kibit](https://github.com/jonase/kibit) integration with [LightTable](http://www.lighttable.com/)
+Sample project showing [Kibit](https://github.com/jonase/kibit) integration with [LightTable](http://www.lighttable.com/). This way you can easily replace a selected text with a more idiomatic form.
 
 Sample of results:
 
